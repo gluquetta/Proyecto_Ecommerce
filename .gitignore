@@ -1,0 +1,9 @@
+# Ignora carpeta env que es el entorno virtual creado
+/env/
+
+# Ignora el archivo llamado '.env' que el archivo que contiene las claves y valores secretas
+.env
+
+# Ignora el archivo 'env.py' que es una prueba mia para ver si las claves y el acceso a ellas funciona
+env.py
+
